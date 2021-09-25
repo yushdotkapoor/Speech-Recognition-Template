@@ -6,4 +6,5 @@ Provides a template for implementing the native iOS Speech SDK within an applica
 
 ## Relevent files
 ViewController.swift contains the UI and some of the target functions for response handling.
+
 speechModule.swift contains the logic behind the Speech Recognizer and initializes it, loops it, and stops it.
